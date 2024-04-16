@@ -1,0 +1,1 @@
+# Suma primelor N numere naturale
